@@ -2,7 +2,7 @@
 
 En este repositorio podrá encontrar todo el material que he usado para realizar la presentación sobre CSS para la asignatura de Sistemas y Tecnologías Web de la Universidad de La Laguna.
 
-En el fichero [presentación.pdf](https://github.com/alu0100697414/presentacion_CSS/blob/master/presentacion.pdf) podrá encontrar las diapositivas que he utilizado y en la carperta examples todos los ejemplos de los que he hecho uso. Además, en las mismas diapositivas encontrará enlaces a dichos ejemplos implementados en la plataforma de [Codepen](http://codepen.io/).
+En el fichero [presentación.pdf](https://github.com/alu0100697414/presentacion_CSS/blob/master/presentacion.pdf) podrá encontrar las diapositivas que he utilizado y en la carperta [examples](https://github.com/alu0100697414/presentacion_CSS/tree/master/examples) todos los ejemplos de los que he hecho uso. Además, en las mismas diapositivas encontrará enlaces a dichos ejemplos implementados en la plataforma de [Codepen](http://codepen.io/).
 
 ## Datos de interés
 

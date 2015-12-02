@@ -1,0 +1,10 @@
+div.boxshadow {
+    background-color: #eee;
+    -moz-box-shadow: 10px 10px 5px #888;
+    -webkit-box-shadow: 10px 10px 5px #888;
+    box-shadow: 10px 10px 5px #888;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+@keyframes animacion1 {
+  from { left:0px }
+  to { left:500px }
+}
+
+.anim {
+  position: relative;
+  background: #000;
+  color: #FFF;
+  animation-name: animacion1;
+  animation-duration: 2s;
+  animation-timing-function: ease;
+}

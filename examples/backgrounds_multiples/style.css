@@ -1,0 +1,8 @@
+.multiple_bg {
+    background-image: url(oveja.jpg), url(cielo.jpg);
+    background-position: center bottom, left top;
+    background-repeat: no-repeat;
+    height: 250px;
+    padding: 5px;
+    width: 500px;
+}

@@ -1,0 +1,26 @@
+.caja {
+  background-color: red;
+  height: 75px;
+  width: 75px;
+
+  margin: 5px;
+}
+
+#caja2 {
+  background-color: blue;
+  height: 75px;
+  width: 75px;
+
+  margin: 5px;
+}
+
+#caja3 {
+  background-color: green;
+  height: 75px;
+  width: 75px;
+
+  margin: 5px;
+}
+
+/* ¿Por qué si sustituyo el valor de #caja3
+por #caja2, la caja que queda es verde? */
